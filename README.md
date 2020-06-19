@@ -1,8 +1,7 @@
 # Data file instructions
 
-updated on 18 Jun 2020
+> updated on 18 Jun 2020
 
----
 + Three data files are provided here, including `online data_SPSS`, `online data_EXCEL`, and `data analysis syntax_SPSS`.
 
 + The file `online data_SPSS` is a `sav` type of files and it includes all data used in our analysis. 
