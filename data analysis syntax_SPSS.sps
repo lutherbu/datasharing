@@ -77,3 +77,4 @@ REGRESSION
   /METHOD=ENTER Education Position_tenure GDP_per_capital_replace ZPopulation_inflow_from_Wuhan_Ln 
     ZRetirement
   /METHOD=ENTER interaction_term.
+
